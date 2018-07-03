@@ -1,6 +1,8 @@
 # Starter Web Repo
 
 MODIFICATO PER LA PROVA DI STASH
+MODIFICATO PER LA PROVA DI STASH CON FILE NON TRACCIATI
+
 
 Modificato il file sul branch MASTER
 Modificato il file sul branch myfeature dopo il rebase
