@@ -4,10 +4,10 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+    Working on myfeature branch
 # THANKS
 
-    <name>
+    All my students!
 
 # TECHNOLOGY COLOPHON
 
