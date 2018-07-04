@@ -1,3 +1,5 @@
+
+Altra modifica per l'esempio di stashing in un branch
 # humanstxt.org/
 # The humans responsible & technology colophon
 
